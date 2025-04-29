@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "41271625266",
+    "firebase_url": "https://notebook-ndabagenga255-default-rtdb.firebaseio.com",
+    "project_id": "notebook-ndabagenga255",
+    "storage_bucket": "notebook-ndabagenga255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41271625266:android:bb925425bd769abb9f9e2b",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU0eJ6w4gnGadCLE5rJzCOoyzuvM2uNNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
